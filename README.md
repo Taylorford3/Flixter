@@ -1,3 +1,6 @@
+
+
+
 # Flixter
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
@@ -28,7 +31,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src = "https://user-images.githubusercontent.com/57050918/111523300-8043b400-8731-11eb-986d-3ffcb75c26c0.mp4" width=400>
 
-
+https://user-images.githubusercontent.com/57050918/111523688-f5af8480-8731-11eb-8bbb-b363236dc807.mp4
 
 
 
